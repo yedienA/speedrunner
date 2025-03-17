@@ -1,6 +1,6 @@
 //moving
 moveDir = 0;
-moveSpd = 2;
+moveSpd = 5.123;
 xspd = 0;
 yspd = 0;
 
