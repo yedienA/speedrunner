@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"invert_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oPowerOrb",
+  "eventList":[],
   "managed":true,
-  "name":"invert_player",
+  "name":"oPowerOrb",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlayer",
-    "path":"sprites/sPlayer/sPlayer.yy",
+    "name":"powerOrb",
+    "path":"sprites/powerOrb/powerOrb.yy",
   },
   "spriteMaskId":null,
   "visible":true,
